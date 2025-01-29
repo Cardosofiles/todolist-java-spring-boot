@@ -17,7 +17,7 @@ public class UserController {
 }
 /**
  * String - text
- * Integer - number whole
+ * Integer - number wholeclear
  * Double - numbers with decimal places
  * Float - numbers with decimal places
  * Char - characters special
